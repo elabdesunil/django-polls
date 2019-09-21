@@ -1,0 +1,13 @@
+{
+    "python.testing.pytestArgs": [
+        "mysite"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "restructuredtext.confPath": "${workspaceFolder}/docs/source",
+    "python.pythonPath": "mysite/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8"
+}

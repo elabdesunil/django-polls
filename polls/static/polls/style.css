@@ -1,0 +1,11 @@
+li a{
+    color: green;
+}
+
+body{
+    background: white url("https://www.maxpixel.net/static/photo/1x/Photoshop-Plain-Animation-Desktop-Background-1886926.png") no-repeat center;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
