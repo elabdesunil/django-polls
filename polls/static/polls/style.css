@@ -3,7 +3,7 @@ li a{
 }
 
 body{
-    background: white url("https://www.maxpixel.net/static/photo/1x/Photoshop-Plain-Animation-Desktop-Background-1886926.png") no-repeat center;
+    background-color: lightblue;
     display: flex;
     flex: 1;
     align-items: center;
